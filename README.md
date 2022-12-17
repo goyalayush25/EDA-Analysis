@@ -1,6 +1,6 @@
 # Title: File Data Analyzer
 ## 1. Methodology
-![method](https://user-images.githubusercontent.com/95565950/208234368-3fe38014-7290-48b5-9e52-f412584f0374.png)
+![Blank diagram (2)](https://user-images.githubusercontent.com/95565950/208240216-1dbf1127-161e-45f6-bb37-a1721a50edea.jpeg)
 
 ## 2. Decription
 This web app performs following 2 functionalities on uploaded data set 
@@ -8,7 +8,8 @@ This web app performs following 2 functionalities on uploaded data set
 - Plotting 
 
 ## 3. Input/Output
-
+- Input -> Any .csv file
+- Output -> Data analysis of the project and various plots explaining data correlation
 
 ## 4. Live Link
 https://data-check-insights-visualization.streamlit.app/
